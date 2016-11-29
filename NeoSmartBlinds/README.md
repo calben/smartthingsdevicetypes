@@ -29,3 +29,6 @@ A Neo Smart Blinds Controller can interface with a Samsung Smart Things Hub, ena
     1. Enter device parameters.  These are largely up to the user, but make sure to choose "Neo Smart Blind" as your device type.  Note: "Neo Smart Blind" might be at the very bottom.  
 1. Set up the device on your phone.
     1. Navigate to "Things" on your phone.
+    1. Your blind is now available with up and down functionality.
+    1. You may also program for your blind as if it were a light switch.  Switching it "on" will open the blind and switching it "off" will close it.
+    
